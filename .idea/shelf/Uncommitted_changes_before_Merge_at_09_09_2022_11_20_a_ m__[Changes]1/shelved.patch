@@ -1,0 +1,17 @@
+Index: HelloWorld.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Prueba</title>\r\n</head>\r\n<body>\r\n    <div>\"HelloWorld\"</div>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/HelloWorld.html b/HelloWorld.html
+--- a/HelloWorld.html	(revision 37dca320a76fa00d0dfc1feea1482688fb240399)
++++ b/HelloWorld.html	(date 1662733240052)
+@@ -7,4 +7,4 @@
+ <body>
+     <div>"HelloWorld"</div>
+ </body>
+-</html>
++</html>
+\ No newline at end of file
